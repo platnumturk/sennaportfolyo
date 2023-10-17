@@ -1,0 +1,2 @@
+# sennaportfolyo
+aciklama,,,
